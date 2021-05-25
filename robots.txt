@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Disallow: http://miajuulnielsen.com/
+Disallow: *.html 
+Disallow: /css/
+Disallow: /img/
+Disallow: script.js
